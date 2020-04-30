@@ -7,6 +7,7 @@ Alex is a young enterprenuer who is out to assemble his own football team to ent
 Alas, for all the money in the world, he can't find a decent programmer to help him with this task. He's designed the front-end of the application and it looks great. He needs **YOU** to help him code the functionalities in the back-end though. Go to the `src/app.js` file and complete all the unfinished code to propel this young man's football dream.
 
 ## What should you do
+
 ```
 Fork this repo
 Clone this repo
@@ -14,6 +15,7 @@ Practice JavaScript Basics - Operators, Conditions, Loops
 ```
 
 ## How To Submit
+
 ```
 Upon completion, run the following commands:
 
@@ -54,6 +56,8 @@ Ohh yes! We have our beloved tests, and you already know how this works. Open th
 Every team starts off with a manager. We need someone to take care of them when Alex isn't around. Create a function `createManager()` that gets the manager's details `managerName, managerAge, currentTeam, trophiesWon` in the same order, and _return an array_ with the manager's details.
 
 ### Progression 2: Plan of Action
+
+create the function given in progression
 
 The coach has prepared a plan of action for the team. He has the formation ready and will provide us with an array `[defender, midfield, forward]`. He will give us the numbers and we'll need to print that layout on our screen so that we know who to pick (for instance, how many midfielders do we need?). Create a function `createFormation()` that _returns an object_ with the data and keys in the order given in the array.
 
